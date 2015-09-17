@@ -1,0 +1,66 @@
+[
+  {
+    "name"       : "Arsames Qajar",
+    "description": "Front-end connaisseur, back-end physicist, all end, no end. MeteorJs, AngularJs, Ionic, JSSSSSSS. <3 <3.",
+    "shine"      : 10,
+    "price"      : 22.90,
+    "rarity"     : 6,
+    "color"      : "#EEE",
+    "faces"      : 12,
+    "isbn"       : "0804139296",
+    "reviews"    : [
+      {
+        "stars": 5,
+        "body": "Angular, Meteor, Javascript. Front-end. Lets go!",
+        "author": "acqajar@gmail.com"
+      },
+      {
+        "stars": 5,
+        "body": "Full-time. Part-time. Anytime. Coding <3 #wecode",
+        "author": "acqajar.github.io"
+      }]
+  },
+  {
+    "name"       : "Tony Danza",
+    "description": "McSweeney's cardigan ethical Portland, occupy jean shorts sapiente. Listicle fap four dollar toast, laborum food truck church-key Truffaut elit polaroid synth. Swag pour-over Pinterest Wes Anderson consequat, crucifix flannel PBR&B.",
+    "shine"      : 8,
+    "price"      : 110.50,
+    "rarity"     : 7,
+    "color"      : "#CCC",
+    "faces"      : 14,
+    "isbn"     : "0062060244",
+    "reviews": [{
+      "stars": 5,
+      "body": "I want to work for you!!",
+      "author": "hireme@hire.com"
+    }, {
+      "stars": 1,
+      "body": "Or I will be sad :(",
+      "author": "unemployed@nojob.com"
+    }]
+  },
+  
+  {
+    "name"       : "Much Love",
+    "description": "Velit 90's American Apparel Pinterest shabby chic, officia delectus mlkshk selvage jean shorts letterpress anim qui vinyl taxidermy. Fashion axe listicle dolore aliquip bespoke, vegan sint viral aesthetic sriracha Brooklyn tousled cred.",
+    "shine"      : 70,
+    "price"      : 1000000000,
+    "rarity"     : 2,
+    "color"      : "#000",
+    "faces"      : 6,
+    "isbn"     : "1118531647",
+    "reviews": [{
+      "stars": 5,
+      "body": "Call me: 310-748-1322",
+      "author": "alwaysbecoding@abc.com"
+    }, {
+      "stars": 5,
+      "body": "Reach out! Would love to learn about you!",
+      "author": "yes@yes.com"
+    }, {
+      "stars": 5,
+      "body": "Much Love. Code love. Lets work together :)",
+      "author": "codefun@code.com"
+    }]
+  }
+]
